@@ -1,4 +1,4 @@
-За стартирането на тази програма стартирате• Wordpress. Може да го изтеглите от https://bitnami.com/stack/wordpress/virtual-machine.
+За стартирането на тази програма стартирате• Wordpress. Може да го изтеглите от https://bitnami.com/stack/wordpress/virtual-machine.<br/>
 • Windows.
 Използвани инструменти:
 • Bitnami,
